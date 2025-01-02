@@ -1,5 +1,7 @@
 ### **README for CS50x - Harvard's Introduction to Computer Science**
 
+![Certificate](images/CS50X.png)
+
 ---
 
 ## **Course Overview:**
